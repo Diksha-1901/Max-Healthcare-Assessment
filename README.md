@@ -1,5 +1,3 @@
-# forking-tutorial🍴
-This repo is used as a demo for the in-class git fork guide
-
-## About forks
-Forking a repository makes an exact copy another project that resides on your personal account. This acts as a connection between your own repo and the owner's repo. Additionally, this allows the owner to protect their own code by preventing users from pushing to it directly but still giving developers a way to contribute in a non-intrusive way. Forking is very common in open-source software development.
+# Assessment 
+Assessment Details
+The assessment is based on a real-world AI/ML problem statement, focusing on handling noisy and unreliable training data. The task involves building a classification model for dermatology images, where training labels may be incorrect, while the validation data is clean and expert-verified.
